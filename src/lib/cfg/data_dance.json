@@ -1,0 +1,20 @@
+{
+    "root":"/home/ioe60/MJB/data",
+    "train":
+    {
+        "dancetrack":"./data/dancetrack.train",
+        "caltech":"./data/caltech.all",
+        "cuhksysu":"./data/cuhksysu.train",
+        "eth":"./data/eth.train",
+        "citypersons":"./data/citypersons.train",
+        "prw":"./data/prw.train"
+    },
+    "test_emb":
+    {
+        "mot15":"./data/mot15.val"
+    },
+    "test":
+    {
+        "mot15":"./data/mot15.val"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "root":"/home/ioe60/MJB/data",
+    "train":
+    {
+        "mot20":"./data/mot20.train"
+    },
+    "test_emb":
+    {
+        "mot20":"./data/mot20.train"
+    },
+    "test":
+    {
+        "mot20":"./data/mot20.train"
+    }
+}
