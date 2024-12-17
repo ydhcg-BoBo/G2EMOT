@@ -23,7 +23,7 @@ outstanding performance on popular MOT benchmarks, while outperforming the exist
 tracking methods by a large margin. In particular, it realizes IDF1 of 76.1% on MOT17 and IDF1 
 of 74.2% on MOT20. 
 
-## 🗼 Pipeline of STCMOT
+## 🗼 Pipeline of G2EMOT
 ![](demo/pipeline.png)
 
 ## 💁 Get Started
